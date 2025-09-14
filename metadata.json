@@ -1,0 +1,5 @@
+{
+  "name": "Habit Tracker",
+  "description": "A web application to track daily habits, set reminders, and manage tasks with different priorities and schedules.",
+  "requestFramePermissions": []
+}
